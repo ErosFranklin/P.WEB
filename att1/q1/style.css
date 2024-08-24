@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+}
+.cabecalho{
+    background-color: #424242;
+    text-align: center;
+    color:#fff;
+    padding:15px;
+}
+
+.paragrafos{
+    display:inline;
+    background-color: #000000c5;
+    color:#fff;
+    border:1px solid #fff;
+    border-radius:15px;
+    margin:10px;
+    padding:5px;
+}
+.rodape{
+    position: absolute;
+    width: 100%;
+    background-color: #272727e0;
+    bottom: 0;
+    color:#fff;
+    padding:30px;
+    text-align: center;
+}
