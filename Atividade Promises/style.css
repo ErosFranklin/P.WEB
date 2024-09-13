@@ -111,12 +111,12 @@ body{
     border-radius:15px;
 }
 #erro{
-    display:none;
     text-align: center;
-    color:red;
+    color: red;
     font-weight: bolder;
     font-style: italic;
     font-size: 20px;
+    display: none;
 }
 .resultado{
     display:none;
